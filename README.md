@@ -1,6 +1,6 @@
 # ATtiny85 Fragrance Dispenser
 
-![Project Prototype](images/project_prototype.webp)
+![Project Prototype](images/project_prototype.png)
 
 A battery-powered fragrance dispenser that automatically sprays every 15 or 30 minutes. Runs for **3-5 years** on 2 AA batteries using intelligent sleep modes.
 
