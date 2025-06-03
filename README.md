@@ -26,10 +26,10 @@ I needed an automatic air freshener but couldn't find one with long battery life
 ## Circuit Design
 
 ### Breadboard Layout
-![Breadboard](schematics/ATtiny85_Fragrance_Dispenser_bb.png)
+![Breadboard](schematics/ATtiny85 Fragrance Dispenser_bb.png)
 
 ### PCB Version  
-![PCB](schematics/ATtiny85_Fragrance_Dispenser_pcb.png)
+![PCB](schematics/ATtiny85 Fragrance Dispenser_pcb.png)
 
 ## Pin Connections
 
